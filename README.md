@@ -1,9 +1,9 @@
 # About me
 
 - im interested in game hacking and development.
-- i code C++, JS and PHP also im a reverse engineer
-- interest in virtualization ( intel/amd )
-- actually im learning more about web
+- i code C++, JS and PHP also im a reverse engineer.
+- interest in virtualization ( intel/amd ).
+- actually im learning more about web.
 
 ## Statistics
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixfy&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
