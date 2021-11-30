@@ -13,4 +13,4 @@
 ## contact
 
 [![discord mark](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](sixfy#4874)
-[![elude badge](https://img.shields.io/badge/sixfy%40elude.in-363636?style=for-the-badge&logoColor=83B81A&logoWidth=25&logo=Mail.Ru&labelColor=363636&link=mailto:sixfy@elude.in)](malito:sixfy@elude.in)
+[![elude badge](https://img.shields.io/badge/sixfy%40elude.in-363636?style=for-the-badge&logoColor=83B81A&logo=Mail.Ru&labelColor=363636&link=mailto:sixfy@elude.in)](malito:sixfy@elude.in)
